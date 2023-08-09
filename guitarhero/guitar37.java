@@ -1,5 +1,4 @@
 //Ashwika Sharma
-//Anju Lam, Quiz Section AD
 //07/07/2022
 
 //The class Guitar37 models a guitar that has 37 strings and implements the Guitar 
